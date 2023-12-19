@@ -1,0 +1,4 @@
+{
+  "/api/keystatic/[...params]/route": "app/api/keystatic/[...params]/route.js",
+  "/keystatic/[[...params]]/page": "app/keystatic/[[...params]]/page.js"
+}
